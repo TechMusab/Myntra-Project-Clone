@@ -1,4 +1,4 @@
-# Myntra Website Clobe Project
+# Myntra Website Clone Project
 Technologies Used
 HTML
 CSS
